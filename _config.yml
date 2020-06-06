@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 permalink: /404.md
-title: Test
+title: DarkfortressAU
+description: A code repo for various helpers
+show_downloads: true
